@@ -1,1 +1,2 @@
 We are learning git amend command
+corrected.
