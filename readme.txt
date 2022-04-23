@@ -1,3 +1,3 @@
 data
-insert data
+i edit data
 new data
